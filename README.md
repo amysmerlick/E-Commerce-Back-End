@@ -1,9 +1,8 @@
 # 🌺E-Commerce-Back-End🌺
 
-  # Description
-  ### For class, we have been challenged to  build the back end for an e-commerce site by modifying starter code.
-  
-  E-Commerce-Back-End is just back-end code, made up of JavaScript using Express.js and Sequelize. MySQL Workbench allows the user to create a database and Insomnia allows the user to test the api routes. This application began with starter code, but tested my knowlege of models and routes and my new understanding of Sequelize. By using a variety of applications to test the functionality of this code I was able to strengthen my skills with the command line, seeds, and Insomnia.
+# Description
+
+For class, we have been challenged to  build the back end for an e-commerce site by modifying starter code. E-Commerce-Back-End is just back-end code, made up of JavaScript using Express.js and Sequelize. MySQL Workbench allows the user to create a database and Insomnia allows the user to test the api routes. 
 
   
   # 📚📚 Table of Contents📚📚
