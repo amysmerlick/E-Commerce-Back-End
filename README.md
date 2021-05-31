@@ -3,7 +3,7 @@
   # Description
   ### For class, we have been challenged to  build the back end for an e-commerce site by modifying starter code.
   
-  we are to create our own server-side APIs using the Express.js framework using starter code provided. Express is the most widely used Node.js server framework. This app will be used by allow someone to oragnize their thoughts by creating notes along with descriptions. Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems.
+  E-Commerce-Back-End is just back-end code, made up of JavaScript using Express.js and Sequelize. MySQL Workbench allows the user to create a database and Insomnia allows the user to test the api routes. This application began with starter code, but tested my knowlege of models and routes and my new understanding of Sequelize. By using a variety of applications to test the functionality of this code I was able to strengthen my skills with the command line, seeds, and Insomnia.
 
   
   # 📚📚 Table of Contents📚📚
@@ -14,13 +14,21 @@
   * [License](#license)
   
   # Installation
-Install npm, dotenv, inquirer, mysql, console-table-printer, console.table
+Clone this application onto your machine through GitHub, then open it in the command line and run the command "npm install" to make sure all the features are installed for the application locally. Update the seeds files with your own data. Run the command "npm seed" in order to sync the data and paste the Schema in MySQL Workbench. Next, run the command "node server.js" to begin. Using Insomnia you can test all CRUD operations.
 
 
 
 
   # Usage
-Please click on the included url for the walthrough video which demonstrates how to use this tool
+Please click on the included url for the walthrough video which demonstrates how to use this tool:
+
+https://drive.google.com/file/d/1x5tPTG1P74bHPZ6mHY89jv5UoVlqjXuO/view
+
+![Terminal](https://user-images.githubusercontent.com/77814900/120232407-840bb080-c221-11eb-9fb5-0b0fb4908f75.png)
+
+![App is Listening](https://user-images.githubusercontent.com/77814900/120232508-b0273180-c221-11eb-810a-93c6e8b7f4c2.png)
+
+![Insomnia](https://user-images.githubusercontent.com/77814900/120227821-ef508500-c217-11eb-88aa-c6e0023b6be7.png)
 
 
 
@@ -38,5 +46,5 @@ Please click on the included url for the walthrough video which demonstrates how
   # Questions ❓❓
   For questions, please email me, or contact me via GitHub.
   * 📧Email📬: amysmerlick@gmail.com
-  * 💹GitHub💹: www.github.com/amysmerlick
+  * 💹GitHub Repo Link💹:https://github.com/amysmerlick/E-Commerce-Back-End
   * ![Profile View Counter](https://komarev.com/ghpvc/?username=amysmerlick)
